@@ -90,6 +90,11 @@ sudo docker run -dit-p 82:80 myimg
 *docker ps 
 *docker images
 
+*ip with port myip:192.168.1.105:82
+
+Project URL:
+
+https://github.com/Muralidharan-lab/Devops-project
 
 
 
